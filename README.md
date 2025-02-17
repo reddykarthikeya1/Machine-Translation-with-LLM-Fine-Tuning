@@ -1,4 +1,4 @@
-#German-to-English Machine Translation Using Fine-Tuned LLMs
+#German-to-English Machine Translation Using Fine-Tuned LLMs#
 **Project Overview**
 This project involves building a German-to-English machine translation system using fine-tuned Large Language Models (LLMs). Leveraging the power of pre-trained transformer models, we fine-tuned the **Helsinki-NLP/Opus-MT-de-en** model on the **WMT14 German-English dataset** to achieve a substantial improvement in translation quality.
 
